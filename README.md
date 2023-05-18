@@ -1,1 +1,1 @@
-# openhousedockerk8s
+# Open house Docker-Kubernetes training material
